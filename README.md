@@ -8,7 +8,7 @@
 ![Prophet](https://img.shields.io/badge/Facebook-Prophet-blue?style=for-the-badge&logo=meta&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
-**CV Project #3 — by [@umairrana99](https://github.com/umairrana99)**
+**Project #3 — by [@umairrana99](https://github.com/umairrana99)**
 
 *Comparing SARIMA · Facebook Prophet · LSTM on 3 years of retail sales data*
 
